@@ -3,6 +3,8 @@
 ## PROGRAM STATEMENT:
 
 To write a C++ Function to perform Inorder traversal of the below given tree.
+
+
 ![image](https://github.com/user-attachments/assets/400b1461-bed0-4aa8-b0de-8e03926bcd0d)
 
 ## ALGORITHM:  
